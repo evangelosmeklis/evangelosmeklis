@@ -16,7 +16,7 @@ As a Co-Founder of RespectablyAI, I'm passionate about using artificial intellig
 
 🤝 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/evangelos-meklis/)https://www.linkedin.com/in/evangelos-meklis/
+💼 [LinkedIn]: (https://www.linkedin.com/in/evangelos-meklis/)https://www.linkedin.com/in/evangelos-meklis/
 📧 Email: vmeklis@hotmail.com
 
 🌍  I'm based in Athens, Greece
