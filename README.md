@@ -11,8 +11,8 @@ As a Co-Founder of RespectablyAI, I'm passionate about using artificial intellig
 
 📚 Academic Publications
 
-1. The ENDORSE feasibility pre-pilot trial: Assessing an innovative integrated platform, implementing serious games strategy and artificial intelligence-based telemedicine for glycemic control improvement [🔗](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-2137197)
-2. THE ENDORSE FEASIBILITY PILOT TRIAL: ASSESSING THE IMPLEMENTATION OF SERIOUS GAMES STRATEGY AND ARTIFICIAL INTELLIGENCE- BASED TELEMEDICINE IN GLYCEMIC CONTROL IMPROVEMENT  [🔗](https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-1896158)
+1. The ENDORSE feasibility pre-pilot trial: Assessing an innovative integrated platform, implementing serious games strategy and artificial intelligence-based telemedicine for glycemic control improvement (https://onlinelibrary.wiley.com/doi/epdf/10.1111/pedi.13400)
+2. THE ENDORSE FEASIBILITY PILOT TRIAL: ASSESSING THE IMPLEMENTATION OF SERIOUS GAMES STRATEGY AND ARTIFICIAL INTELLIGENCE- BASED TELEMEDICINE IN GLYCEMIC CONTROL IMPROVEMENT  (https://www.liebertpub.com/doi/epdf/10.1089/dia.2022.2525.abstracts)
 
 🤝 Let's Connect
 
