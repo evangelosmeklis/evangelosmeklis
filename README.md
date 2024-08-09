@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Vaggelis!
 🚀 About Me
-I'm a Software Engineer L2 at Nokia, where I've been applying my skills in C++ to innovate in the telecommunications industry. I also work with Python, Node.js, JavaScript, and SQL on various projects.
+I'm a Software Engineer at Nokia, where I've been applying my skills in C++ to innovate in the telecommunications industry. I also work with Python, Node.js, JavaScript, and SQL on various projects.
 As a Co-Founder of RespectablyAI, I'm passionate about using artificial intelligence and large language models (LLMs) to enhance empathy in digital interactions. Our goal is to make digital communications more respectful, professional, and inclusive.
 
 🌟 What I Do
