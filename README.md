@@ -1,12 +1,11 @@
 ### 👋 Hi there, I'm Vaggelis!
 🚀 About Me
-I'm a Software Engineer at Nokia, where I've been applying my skills in C++ to innovate in the telecommunications industry. I also work with Python, Node.js, JavaScript, and SQL on various projects.
+I'm a Software Engineer at Nokia, where I've been applying my skills in C++ and Python to innovate in the telecommunications industry. I also work with Node.js, JavaScript, and SQL on various projects.
 I'm passionate also about databases, artificial intelligence and large language models (LLMs).
 
 🌟 What I Do
-📡 Telecommunications Innovation: Using C++ and TCL to develop cutting-edge solutions.
-🤖 RespectablyAI: Leading the way in empathetic AI-driven communication.
-💻 Diverse Tech Stack: Experienced in Python, Node.js, JavaScript, and SQL.
+📡 Telecommunications Innovation: Using C++ and Python to develop cutting-edge solutions.
+💻 Diverse Tech Stack: Experienced in Node.js, JavaScript, and SQL.
 🧠 Continuous Learning: Always exploring new technologies and methodologies.
 
 📚 Academic Publications
