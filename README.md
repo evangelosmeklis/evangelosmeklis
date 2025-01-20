@@ -2,8 +2,7 @@
 🚀 About Me
 I'm a Software Engineer at Nokia, where I've been applying my skills in C++ and Python for optimized software in the telecommunications industry.
 
-🌟 What I Do
-📡 Using C++ and Python to develop optimized software. Currently learning more modern C++ (version 20)
+📡 I use C++ and Python to develop optimized software. Currently learning more modern C++ (version 20)
 💻 I am also currently learning Typescript for hobby projects
 🧠 I like open-source and decentralized applications
 
