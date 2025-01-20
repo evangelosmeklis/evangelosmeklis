@@ -1,11 +1,11 @@
 ### 👋 Hi there, I'm Vaggelis!
 🚀 About Me
-I'm a Software Engineer at Nokia, where I've been applying my skills in C++ and Python to innovate in the telecommunications industry.
+I'm a Software Engineer at Nokia, where I've been applying my skills in C++ and Python for optimized software in the telecommunications industry.
 
 🌟 What I Do
-📡 Using C++ and Python to develop cutting-edge solutions.
-💻 I am also keen on learning Typescript
-🧠 Always exploring new technologies and methodologies.
+📡 Using C++ and Python to develop optimized software. Currently learning more modern C++ (version 20)
+💻 I am also currently learning Typescript for hobby projects
+🧠 I like open-source and decentralized applications
 
 📚 Academic Publications
 
