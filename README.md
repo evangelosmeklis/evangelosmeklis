@@ -13,6 +13,7 @@
 
  - ⛩️ **[Hanzifive](https://github.com/evangelosmeklis/hanzifive)** - iOS app to practice Chinese HSK levels with flashcards
  - 🪙 **[LeetBoo](https://github.com/evangelosmeklis/LeetBoo)** - iOS app to count your Leetcoins
+ - 🐛 **[Thufir](https://github.com/evangelosmeklis/thufir)** - Claude Code plugin to solve production issues
  - 💸 **[ExpenseBoo](https://github.com/evangelosmeklis/ExpenseBoo)** - iOS app to track your expenses
  - 💪 **[FitnessBoo](https://github.com/evangelosmeklis/FitnessBoo)** - iOS app to track calories your burn and eat
  - 🧠 **[MindfulBoo](https://github.com/evangelosmeklis/MindfulBoo)** - iOS app for meditation
