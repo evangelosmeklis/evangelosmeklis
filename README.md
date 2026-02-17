@@ -20,7 +20,7 @@
  - 🔥 **[pirkagiesgr](https://pirkagies.gr)** - See active fires in Greece
  
 ## ⏱️ Legacy Projects
-    
+ - 📰 **[theaihomepage](https://github.com/evangelosmeklis/theaihomepage)** - AI news aggregator from Hacker News, Reddit and Startupper.gr
  - 🇨🇳 **[HanzifivePC](https://github.com/evangelosmeklis/hanzifivePC)** - First version of Hanzifive (but for PC) to practice Chinese Flashcards
  - 🔎 **[PeepDB](https://github.com/evangelosmeklis/peepdb)** - Read multiple databases fast from the CLI
 
