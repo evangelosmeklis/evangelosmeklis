@@ -10,7 +10,7 @@
 2. THE ENDORSE FEASIBILITY PILOT TRIAL: ASSESSING THE IMPLEMENTATION OF SERIOUS GAMES STRATEGY AND ARTIFICIAL INTELLIGENCE- BASED TELEMEDICINE IN GLYCEMIC CONTROL IMPROVEMENT  (https://www.liebertpub.com/doi/epdf/10.1089/dia.2022.2525.abstracts)
 
 ## 📖 Current Projects
-
+ - 🏀 **[Euroleaguefantasy](https://github.com/evangelosmeklis/euroleaguefantasy)** - A euroleague fantasy performance predictor for players
  - ⛩️ **[Hanzifive](https://github.com/evangelosmeklis/hanzifive)** - iOS app to practice Chinese HSK levels with flashcards
  - 🪙 **[LeetBoo](https://github.com/evangelosmeklis/LeetBoo)** - iOS app to count your Leetcoins
  - 🐛 **[Thufir](https://github.com/evangelosmeklis/thufir)** - Claude Code plugin to solve production issues
